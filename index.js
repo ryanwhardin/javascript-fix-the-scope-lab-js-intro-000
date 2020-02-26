@@ -29,4 +29,12 @@ var funkyFunction = function() {
 
 // We want to set theFunk equal to "FUNKY!" using our funkyFunction.
 // NOTE: you only need to modify the code below this line.
+<<<<<<< HEAD
 var theFunk = funkyFunction()()
+=======
+<<<<<<< HEAD
+var theFunk = "FUNKY!"
+=======
+var theFunk() = funkyFunction
+>>>>>>> 1a3b2900736ddedfb9877c0ec191eb65dfdc0e34
+>>>>>>> 500948e23c6f63863109857ed05b5e5684fffd2e
